@@ -106,6 +106,7 @@ Data is filtered based on either customer or vendor ID.
 
 ## Admin Module 
 While not yet implemented in the uploaded code, the structure allows for:
+
     - Admin approval of vendors.
     - Central monitoring of work progress.
     - Manual reassignment of vendors.
