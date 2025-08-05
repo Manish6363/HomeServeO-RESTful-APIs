@@ -4,7 +4,7 @@
 
 **Backend Framework:** Spring Boot (Java)
 
-**HTTP Handling:** Spring Web (REST Controllers)
+**HTTP Handling:** Spring Web (REST Controllers) like GET, POST, PUT, PATCH, DELETE, REMOVE, etc.
 
 **Data Handling:** Likely using JPA/Hibernate (based on standard practices)
 
