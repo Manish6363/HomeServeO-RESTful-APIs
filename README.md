@@ -1,13 +1,14 @@
 # HomeServeO – A Home Services Management System
 
-Technologies Used [Java + Spring-boot-REST APIs + Spring JPA]
-Backend Framework: Spring Boot (Java)
+## Technologies Used [Java + Spring-boot-REST APIs + Spring JPA]
 
-HTTP Handling: Spring Web (REST Controllers)
+**Backend Framework:** Spring Boot (Java)
 
-Data Handling: Likely using JPA/Hibernate (based on standard practices)
+**HTTP Handling:** Spring Web (REST Controllers)
 
-Security: Email OTP for user/vendor verification
+**Data Handling:** Likely using JPA/Hibernate (based on standard practices)
+
+**Security:** Email OTP for user/vendor verification
 
 ### Security Measures
 **OTP Verification:** Ensures only genuine users/vendors can register.
